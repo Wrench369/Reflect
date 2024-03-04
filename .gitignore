@@ -1,0 +1,17 @@
+##### Windows
+.vs/
+bin/
+bin-int/
+CMakeFiles/
+X64/
+Generated/
+BuildScripts/BuiltZips/
+
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
+*.pdb
+*.lib
+
+build/
